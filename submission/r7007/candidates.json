@@ -1,0 +1,958 @@
+{
+  "candidates": [
+    {
+      "type": "bbox_drift",
+      "target": "000000001353",
+      "evidence": {
+        "class": "person",
+        "box_line": 7,
+        "segment_id": 1715025,
+        "segment_pixels_in_box": 0.2321,
+        "bbox_iou": 0.1924
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000002685",
+      "evidence": {
+        "class": "bottle",
+        "box_line": 3,
+        "segment_id": 2369601,
+        "segment_pixels_in_box": 0.4579,
+        "bbox_iou": 0.3731
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "box_line": 4,
+        "segment_id": 922395,
+        "segment_pixels_in_box": 0.0949,
+        "bbox_iou": 0.1126
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000007816",
+      "evidence": {
+        "class": "person",
+        "box_line": 4,
+        "segment_id": 2962254,
+        "segment_pixels_in_box": 0.212,
+        "bbox_iou": 0.1044
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000009378",
+      "evidence": {
+        "class": "person",
+        "box_line": 8,
+        "segment_id": 1290,
+        "segment_pixels_in_box": 0.0755,
+        "bbox_iou": 0.1949
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000010707",
+      "evidence": {
+        "class": "cup",
+        "box_line": 11,
+        "segment_id": 4549770,
+        "segment_pixels_in_box": 0.258,
+        "bbox_iou": 0.1632
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000014439",
+      "evidence": {
+        "class": "person",
+        "box_line": 7,
+        "segment_id": 2433298,
+        "segment_pixels_in_box": 0.1423,
+        "bbox_iou": 0.1633
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000015079",
+      "evidence": {
+        "class": "sandwich",
+        "box_line": 3,
+        "segment_id": 2442325,
+        "segment_pixels_in_box": 0.523,
+        "bbox_iou": 0.4046
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000015079",
+      "evidence": {
+        "class": "sandwich",
+        "box_line": 2,
+        "segment_id": 2442325,
+        "segment_pixels_in_box": 0.6987,
+        "bbox_iou": 0.5631
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000015335",
+      "evidence": {
+        "class": "person",
+        "box_line": 7,
+        "segment_id": 3088945,
+        "segment_pixels_in_box": 0.2664,
+        "bbox_iou": 0.2196
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000015517",
+      "evidence": {
+        "class": "bus",
+        "box_line": 11,
+        "segment_id": 8613732,
+        "segment_pixels_in_box": 0.472,
+        "bbox_iou": 0.1691
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000016010",
+      "evidence": {
+        "class": "zebra",
+        "box_line": 5,
+        "segment_id": 4739410,
+        "segment_pixels_in_box": 0.2174,
+        "bbox_iou": 0.1886
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000016249",
+      "evidence": {
+        "class": "person",
+        "box_line": 6,
+        "segment_id": 3353644,
+        "segment_pixels_in_box": 0.0637,
+        "bbox_iou": 0.1132
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000017182",
+      "evidence": {
+        "class": "book",
+        "box_line": 3,
+        "segment_id": 3944728,
+        "segment_pixels_in_box": 0.3893,
+        "bbox_iou": 0.3105
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000017627",
+      "evidence": {
+        "class": "car",
+        "box_line": 13,
+        "segment_id": 8553344,
+        "segment_pixels_in_box": 0.1288,
+        "bbox_iou": 0.1231
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000017627",
+      "evidence": {
+        "class": "car",
+        "box_line": 14,
+        "segment_id": 8553344,
+        "segment_pixels_in_box": 0.2107,
+        "bbox_iou": 0.1955
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000018380",
+      "evidence": {
+        "class": "wine glass",
+        "box_line": 51,
+        "segment_id": 4150652,
+        "segment_pixels_in_box": 0.2359,
+        "bbox_iou": 0.2064
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000019109",
+      "evidence": {
+        "class": "motorcycle",
+        "box_line": 22,
+        "segment_id": 5918787,
+        "segment_pixels_in_box": 0.2857,
+        "bbox_iou": 0.2125
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000022755",
+      "evidence": {
+        "class": "car",
+        "box_line": 3,
+        "segment_id": 2896413,
+        "segment_pixels_in_box": 0.083,
+        "bbox_iou": 0.1474
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000023899",
+      "evidence": {
+        "class": "person",
+        "box_line": 2,
+        "segment_id": 1249810,
+        "segment_pixels_in_box": 0.2259,
+        "bbox_iou": 0.155
+      }
+    },
+    {
+      "type": "bbox_drift",
+      "target": "000000024021",
+      "evidence": {
+        "class": "person",
+        "box_line": 9,
+        "segment_id": 6118749,
+        "segment_pixels_in_box": 0.3341,
+        "bbox_iou": 0.2942
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000001000",
+      "evidence": {
+        "detection_class": "backpack",
+        "panoptic_class": "handbag",
+        "box_line": 15,
+        "segment_id": 7038571,
+        "bbox_iou": 0.193
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000001268",
+      "evidence": {
+        "detection_class": "backpack",
+        "panoptic_class": "person",
+        "box_line": 9,
+        "segment_id": 1906457,
+        "bbox_iou": 0.2375
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000002685",
+      "evidence": {
+        "detection_class": "cup",
+        "panoptic_class": "bottle",
+        "box_line": 18,
+        "segment_id": 2369601,
+        "bbox_iou": 0.1624
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000003845",
+      "evidence": {
+        "detection_class": "spoon",
+        "panoptic_class": "fork",
+        "box_line": 11,
+        "segment_id": 6780294,
+        "bbox_iou": 0.8757
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000004134",
+      "evidence": {
+        "detection_class": "chair",
+        "panoptic_class": "person",
+        "box_line": 20,
+        "segment_id": 197638,
+        "bbox_iou": 0.1843
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000004134",
+      "evidence": {
+        "detection_class": "chair",
+        "panoptic_class": "person",
+        "box_line": 19,
+        "segment_id": 197638,
+        "bbox_iou": 0.2091
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000006040",
+      "evidence": {
+        "detection_class": "car",
+        "panoptic_class": "truck",
+        "box_line": 5,
+        "segment_id": 6053208,
+        "bbox_iou": 0.2766
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000006471",
+      "evidence": {
+        "detection_class": "bench",
+        "panoptic_class": "couch",
+        "box_line": 10,
+        "segment_id": 4869200,
+        "bbox_iou": 0.9842
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000008211",
+      "evidence": {
+        "detection_class": "chair",
+        "panoptic_class": "person",
+        "box_line": 3,
+        "segment_id": 6575450,
+        "bbox_iou": 0.1948
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000008211",
+      "evidence": {
+        "detection_class": "chair",
+        "panoptic_class": "person",
+        "box_line": 2,
+        "segment_id": 10584960,
+        "bbox_iou": 0.3554
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000009590",
+      "evidence": {
+        "detection_class": "cup",
+        "panoptic_class": "bowl",
+        "box_line": 23,
+        "segment_id": 5066309,
+        "bbox_iou": 0.9198
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000009914",
+      "evidence": {
+        "detection_class": "hot dog",
+        "panoptic_class": "sandwich",
+        "box_line": 7,
+        "segment_id": 4220302,
+        "bbox_iou": 0.8146
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000012670",
+      "evidence": {
+        "detection_class": "handbag",
+        "panoptic_class": "person",
+        "box_line": 28,
+        "segment_id": 6972783,
+        "bbox_iou": 0.1546
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000012670",
+      "evidence": {
+        "detection_class": "backpack",
+        "panoptic_class": "person",
+        "box_line": 19,
+        "segment_id": 3746661,
+        "bbox_iou": 0.2085
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000013177",
+      "evidence": {
+        "detection_class": "motorcycle",
+        "panoptic_class": "bicycle",
+        "box_line": 1,
+        "segment_id": 6250585,
+        "bbox_iou": 0.9959
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000013729",
+      "evidence": {
+        "detection_class": "remote",
+        "panoptic_class": "person",
+        "box_line": 5,
+        "segment_id": 7565176,
+        "bbox_iou": 0.3119
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000016249",
+      "evidence": {
+        "detection_class": "backpack",
+        "panoptic_class": "person",
+        "box_line": 10,
+        "segment_id": 4410456,
+        "bbox_iou": 0.2067
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000017207",
+      "evidence": {
+        "detection_class": "car",
+        "panoptic_class": "person",
+        "box_line": 2,
+        "segment_id": 4740687,
+        "bbox_iou": 0.2183
+      }
+    },
+    {
+      "type": "class_swap",
+      "alternate_type": "category_swap",
+      "target": "000000021879",
+      "evidence": {
+        "detection_class": "surfboard",
+        "panoptic_class": "person",
+        "box_line": 7,
+        "segment_id": 7830429,
+        "bbox_iou": 0.1506
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000001000",
+      "evidence": {
+        "class": "person",
+        "segment_id": 6712936,
+        "box_lines": [
+          6,
+          10
+        ],
+        "segment_pixels_in_boxes": 0.4686
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000001000",
+      "evidence": {
+        "class": "person",
+        "segment_id": 4542047,
+        "box_lines": [
+          9,
+          11
+        ],
+        "segment_pixels_in_boxes": 0.8742
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000001584",
+      "evidence": {
+        "class": "bus",
+        "segment_id": 3156032,
+        "box_lines": [
+          1,
+          14
+        ],
+        "segment_pixels_in_boxes": 1.284
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000002153",
+      "evidence": {
+        "class": "person",
+        "segment_id": 5784894,
+        "box_lines": [
+          2,
+          5
+        ],
+        "segment_pixels_in_boxes": 0.884
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000002157",
+      "evidence": {
+        "class": "wine glass",
+        "segment_id": 5919607,
+        "box_lines": [
+          5,
+          6
+        ],
+        "segment_pixels_in_boxes": 0.5196
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000002157",
+      "evidence": {
+        "class": "wine glass",
+        "segment_id": 5261667,
+        "box_lines": [
+          8,
+          9
+        ],
+        "segment_pixels_in_boxes": 0.663
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "segment_id": 922395,
+        "box_lines": [
+          2,
+          15
+        ],
+        "segment_pixels_in_boxes": 2.0
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "segment_id": 988448,
+        "box_lines": [
+          2,
+          25
+        ],
+        "segment_pixels_in_boxes": 2.0
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "segment_id": 197638,
+        "box_lines": [
+          2,
+          5
+        ],
+        "segment_pixels_in_boxes": 1.2173
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "segment_id": 461071,
+        "box_lines": [
+          2,
+          5
+        ],
+        "segment_pixels_in_boxes": 2.0
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "segment_id": 2503240,
+        "box_lines": [
+          2,
+          6
+        ],
+        "segment_pixels_in_boxes": 2.0
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000004134",
+      "evidence": {
+        "class": "person",
+        "segment_id": 856087,
+        "box_lines": [
+          3,
+          8
+        ],
+        "segment_pixels_in_boxes": 1.4344
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000008277",
+      "evidence": {
+        "class": "broccoli",
+        "segment_id": 674121,
+        "box_lines": [
+          12,
+          13
+        ],
+        "segment_pixels_in_boxes": 0.7728
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000008844",
+      "evidence": {
+        "class": "person",
+        "segment_id": 5459025,
+        "box_lines": [
+          1,
+          6
+        ],
+        "segment_pixels_in_boxes": 1.4051
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000008844",
+      "evidence": {
+        "class": "banana",
+        "segment_id": 3709110,
+        "box_lines": [
+          2,
+          5
+        ],
+        "segment_pixels_in_boxes": 1.322
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000009378",
+      "evidence": {
+        "class": "person",
+        "segment_id": 1254447,
+        "box_lines": [
+          1,
+          2
+        ],
+        "segment_pixels_in_boxes": 2.0
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000009378",
+      "evidence": {
+        "class": "person",
+        "segment_id": 599097,
+        "box_lines": [
+          1,
+          3
+        ],
+        "segment_pixels_in_boxes": 1.9517
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000009400",
+      "evidence": {
+        "class": "person",
+        "segment_id": 526606,
+        "box_lines": [
+          3,
+          10
+        ],
+        "segment_pixels_in_boxes": 1.4128
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000010092",
+      "evidence": {
+        "class": "chair",
+        "segment_id": 2372985,
+        "box_lines": [
+          2,
+          5
+        ],
+        "segment_pixels_in_boxes": 1.4811
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000010707",
+      "evidence": {
+        "class": "person",
+        "segment_id": 922933,
+        "box_lines": [
+          5,
+          7
+        ],
+        "segment_pixels_in_boxes": 0.7003
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000013923",
+      "evidence": {
+        "class": "chair",
+        "segment_id": 4080824,
+        "box_lines": [
+          4,
+          19
+        ],
+        "segment_pixels_in_boxes": 1.0066
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000015335",
+      "evidence": {
+        "class": "person",
+        "segment_id": 3088945,
+        "box_lines": [
+          2,
+          7
+        ],
+        "segment_pixels_in_boxes": 1.2664
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000015517",
+      "evidence": {
+        "class": "bus",
+        "segment_id": 6443848,
+        "box_lines": [
+          6,
+          7
+        ],
+        "segment_pixels_in_boxes": 0.8004
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000015751",
+      "evidence": {
+        "class": "bird",
+        "segment_id": 4080737,
+        "box_lines": [
+          1,
+          4
+        ],
+        "segment_pixels_in_boxes": 1.2701
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000017959",
+      "evidence": {
+        "class": "kite",
+        "segment_id": 11308664,
+        "box_lines": [
+          10,
+          11
+        ],
+        "segment_pixels_in_boxes": 0.6347
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000017959",
+      "evidence": {
+        "class": "kite",
+        "segment_id": 2365329,
+        "box_lines": [
+          12,
+          13
+        ],
+        "segment_pixels_in_boxes": 0.9328
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000017959",
+      "evidence": {
+        "class": "kite",
+        "segment_id": 3616632,
+        "box_lines": [
+          14,
+          16
+        ],
+        "segment_pixels_in_boxes": 0.8707
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000017959",
+      "evidence": {
+        "class": "kite",
+        "segment_id": 7752551,
+        "box_lines": [
+          14,
+          16
+        ],
+        "segment_pixels_in_boxes": 0.743
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000018380",
+      "evidence": {
+        "class": "person",
+        "segment_id": 5333101,
+        "box_lines": [
+          16,
+          48
+        ],
+        "segment_pixels_in_boxes": 0.684
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000018380",
+      "evidence": {
+        "class": "person",
+        "segment_id": 2436446,
+        "box_lines": [
+          21,
+          26
+        ],
+        "segment_pixels_in_boxes": 0.6227
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000019109",
+      "evidence": {
+        "class": "motorcycle",
+        "segment_id": 4864814,
+        "box_lines": [
+          4,
+          5
+        ],
+        "segment_pixels_in_boxes": 1.1418
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000019109",
+      "evidence": {
+        "class": "motorcycle",
+        "segment_id": 4865587,
+        "box_lines": [
+          5,
+          8
+        ],
+        "segment_pixels_in_boxes": 0.8128
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000019109",
+      "evidence": {
+        "class": "motorcycle",
+        "segment_id": 5523777,
+        "box_lines": [
+          8,
+          27
+        ],
+        "segment_pixels_in_boxes": 1.1104
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000021503",
+      "evidence": {
+        "class": "sandwich",
+        "segment_id": 5665410,
+        "box_lines": [
+          7,
+          8
+        ],
+        "segment_pixels_in_boxes": 1.4146
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000024567",
+      "evidence": {
+        "class": "hot dog",
+        "segment_id": 4089287,
+        "box_lines": [
+          5,
+          6
+        ],
+        "segment_pixels_in_boxes": 0.5902
+      }
+    },
+    {
+      "type": "instance_merge",
+      "target": "000000025057",
+      "evidence": {
+        "class": "person",
+        "segment_id": 5791847,
+        "box_lines": [
+          3,
+          4
+        ],
+        "segment_pixels_in_boxes": 1.3693
+      }
+    },
+    {
+      "type": "missing_box",
+      "target": "000000000785",
+      "evidence": {
+        "class": "skis",
+        "segment_id": 8684420,
+        "segment_pixels": 3828
+      }
+    },
+    {
+      "type": "missing_box",
+      "target": "000000003845",
+      "evidence": {
+        "class": "broccoli",
+        "segment_id": 1532029,
+        "segment_pixels": 2691
+      }
+    },
+    {
+      "type": "missing_box",
+      "target": "000000004765",
+      "evidence": {
+        "class": "surfboard",
+        "segment_id": 11582145,
+        "segment_pixels": 6475
+      }
+    }
+  ]
+}

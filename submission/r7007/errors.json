@@ -1,0 +1,140 @@
+{
+ "errors": [
+  {
+   "type": "bbox_drift",
+   "target": "000000001353"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000014439"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000015517"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000017182"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000018380"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000019109"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000022755"
+  },
+  {
+   "type": "bbox_drift",
+   "target": "000000023899"
+  },
+  {
+   "type": "bbox_out_of_bounds",
+   "target": "000000016451"
+  },
+  {
+   "type": "category_swap",
+   "target": "000000006471"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000001268"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000002685"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000003845"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000004134"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000008211"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000009590"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000009914"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000013177"
+  },
+  {
+   "type": "class_swap",
+   "target": "000000016249"
+  },
+  {
+   "type": "duplicate_box",
+   "target": "000000020247"
+  },
+  {
+   "type": "guideline_mismatch",
+   "target": "000000011615"
+  },
+  {
+   "type": "guideline_mismatch",
+   "target": "000000024567"
+  },
+  {
+   "type": "instance_merge",
+   "target": "000000004134"
+  },
+  {
+   "type": "instance_merge",
+   "target": "000000008277"
+  },
+  {
+   "type": "instance_merge",
+   "target": "000000009400"
+  },
+  {
+   "type": "invalid_category_id",
+   "target": "000000018491"
+  },
+  {
+   "type": "invalid_category_id",
+   "target": "000000018833"
+  },
+  {
+   "type": "invalid_class",
+   "target": "000000003845"
+  },
+  {
+   "type": "invalid_class",
+   "target": "000000004765"
+  },
+  {
+   "type": "missing_box",
+   "target": "000000000785"
+  },
+  {
+   "type": "missing_image",
+   "target": "000000005992"
+  },
+  {
+   "type": "scene_leak",
+   "target": "scene_593"
+  },
+  {
+   "type": "thing_overlap",
+   "target": "000000011511"
+  },
+  {
+   "type": "wrong_hash",
+   "target": "000000016010"
+  }
+ ]
+}
